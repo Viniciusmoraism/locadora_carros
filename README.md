@@ -28,9 +28,13 @@ Este é um sistema simples para gerenciar a locação de carros em uma locadora 
 - Biblioteca tkinter instalada (`pip install tk`)
 - Banco de dados SQLite
 
+## IDE - Visual Studio Code
+- Certifique-se de ter todas permissões e bibliotecas instaladas.
+
 ## Como Executar
 
 1. Clone o repositório:
 
    ```bash
    git clone https://github.com/Viniciusmoraism/locadora_carros.git
+   - python main.py
