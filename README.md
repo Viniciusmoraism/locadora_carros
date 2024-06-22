@@ -34,7 +34,8 @@ Este é um sistema simples para gerenciar a locação de carros em uma locadora 
 ## Como Executar
 
 1. Clone o repositório:
+ - python main.py
 
    ```bash
    git clone https://github.com/Viniciusmoraism/locadora_carros.git
-   - python main.py
+   
